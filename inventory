@@ -7,3 +7,6 @@ mitch@10.100.13.106
 
 [file_servers]
 mitch@10.100.13.184
+
+[workstation]
+metchason@192.168.10.2
